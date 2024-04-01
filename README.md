@@ -27,8 +27,8 @@ kaynak klasör/                hedef klasör/   [boş]
 ├── alt klasör1/
 │   ├── android.apk
 │   ├── main.kt
-|   └── klasör/
-|       └── logo.ico    
+│   └── klasör/
+│       └── logo.ico    
 └── alt klasör2/
     ├── android.apk
     └── main.kt
@@ -37,13 +37,12 @@ kaynak klasör/                hedef klasör/   [boş]
 ```
 kaynak klasör/                  hedef klasör/
 ├── alt klasör1/                ├── metin.txt
-|   └── klasör/                 ├── resim.png
+│   └── klasör/                 ├── resim.png
 └── alt klasör2/                ├── android.apk
                                 ├── main.kt
                                 ├── android_5434235234.apk
                                 ├── main_4325245141.kt
-                                └── logo.ico
-                                
+                                └── logo.ico                              
 ```
 
 
@@ -64,7 +63,20 @@ Uygulamayı kendi bilgisayarınıza indirmek, çalıştırmak veya kodları ince
 
 
 ## 5. Lisans
+    Copyright 2024 Mustafa TOKTAŞ
 
+    Licensed under the GNU General Public License v3.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    
 Bu uygulama [GNU General Public License v3.0](LICENSE) altında lisanslanmıştır. Detaylar için lisans dosyasını inceleyebilirsiniz.
 
 
