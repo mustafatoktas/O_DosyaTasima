@@ -57,7 +57,7 @@ kaynak klasör/                  hedef klasör/
 ## 3. Uygulamayı Çalıştırma
 
 Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
- [lisans hakları](#4-lisans) çerçevesinde geliştirme yapabilmek için [git](https://git-scm.com)
+ [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme yapabilmek için [git](https://git-scm.com)
 yüklü bir bilgisayarda projeyi indirmek istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/O_DosyaTasima.git`
 komutunu çalıştırabilirsiniz.
@@ -82,8 +82,6 @@ komutunu çalıştırabilirsiniz.
 
 ## 5. İletişim
 
-<p align="left">
-  <a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
-  <a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
-  <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
-</p>
+<a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
+<a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
+<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
