@@ -82,6 +82,8 @@ komutunu çalıştırabilirsiniz.
 
 ## 5. İletişim
 
-<a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
-<a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
-<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
+<p align="left">
+  <a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
+  <a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
+  <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
+</p>
