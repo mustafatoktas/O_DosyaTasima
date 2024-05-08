@@ -1,4 +1,8 @@
-# O - Dosya Taşıma
+# O - Dosya Taşıma 
+
+<img src="./Readme%20Resources/Dosya%20Taşıma%20Logo.png" alt="Logo" width="80" heigh="80"/>
+
+<br>
 
 **İçindekiler**
 
@@ -57,7 +61,7 @@ kaynak klasör/                  hedef klasör/
 ## 3. Uygulamayı Çalıştırma
 
 Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
- [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme yapabilmek için [git](https://git-scm.com)
+[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme yapabilmek için [git](https://git-scm.com)
 yüklü bir bilgisayarda projeyi indirmek istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/O_DosyaTasima.git`
 komutunu çalıştırabilirsiniz.
