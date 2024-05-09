@@ -6,18 +6,18 @@
 
 **İçindekiler**
 
-  - [1. Uygulama Hakkında](#1-uygulama-hakkında)
-  - [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
-  - [3. Uygulamayı Çalıştırma](#3-uygulamayı-çalıştırma)
-  - [4. Lisans](#4-lisans)
-  - [5. İletişim](#5-i̇letişim)
+- [1. Uygulama Hakkında](#1-uygulama-hakkında)
+- [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
+- [3. Uygulamayı Çalıştırma](#3-uygulamayı-çalıştırma)
+- [4. Lisans](#4-lisans)
+- [5. İletişim](#5-i̇letişim)
 
 ---
 
 
 ## 1. Uygulama Hakkında
 
-  - **Tür:** Windows Konsol Uygulaması
+- **Tür:** Windows Konsol Uygulaması
 
 Bu Windows konsol uygulaması kullanıcının belirleyeceği kaynak klasör ve tüm alt
 klasörlerindeki dosyaları, yine kullanıcının belirleyeceği hedef klasörün
