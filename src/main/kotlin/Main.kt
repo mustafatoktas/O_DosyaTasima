@@ -5,7 +5,7 @@ import java.io.IOException
 
 fun main() {
 
-    print("HOŞGELDİNİZ,\n" +
+    print("HOŞGELDİNİZ,                              [https://github.com/mustafatoktas/O_DosyaTasima]\n" +
             "Bu uygulama, belirleyecek olduğunuz kaynak klasördeki ve tüm alt klasörlerindeki dosyaları\n" +
             "hedef klasöre otomatik olarak taşıma işlemi yapmaktadır.")
     println("\nHerhangi bir zamanda uygulamayı baştan başlatmak için r'ye basabilirsiniz...")
