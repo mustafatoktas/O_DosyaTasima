@@ -13,7 +13,7 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Uygulama Hakkında
@@ -51,7 +51,7 @@ kaynak klasör/                  hedef klasör/
                                 └── logo.ico                              
 ```
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Ekran Görüntüleri
@@ -60,25 +60,26 @@ kaynak klasör/                  hedef klasör/
 ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.png)
 ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.png)
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Video
 
 [Uygulama Tanıtım Videosu](https://youtu.be/_VowZjxqJwg)
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Uygulamayı Çalıştırma
 
 Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme yapabilmek için [git](https://git-scm.com)
-yüklü bir bilgisayarda projeyi indirmek istediğiniz dosya yoluna gidip terminalde
+[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
+yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
+istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/O_DosyaTasima.git`
 komutunu çalıştırabilirsiniz.
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Lisans
@@ -97,7 +98,7 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## İletişim
