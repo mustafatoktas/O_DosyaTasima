@@ -56,6 +56,8 @@ kaynak klasör/                  hedef klasör/
 
 ## Ekran Görüntüleri
 
+Ekran görüntüleri uygulamanın v1.0.0 sürümünden alınmıştır.
+
 ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%201.png)
 ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.png)
 ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.png)
