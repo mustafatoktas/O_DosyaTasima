@@ -13,17 +13,17 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulama Hakkında
 
 - **Tür:** Windows Konsol Uygulaması
 
-Bu Windows konsol uygulaması kullanıcının belirleyeceği kaynak klasör ve tüm alt
-klasörlerindeki dosyaları, yine kullanıcının belirleyeceği hedef klasörün
-ana dizinine otomatik olarak taşıma işlemi yapmaktadır. Hedef klasördeki olası
-dosya ismi çakışmalarında otomatik olarak isim değiştirme işlemi yapılmaktadır.
+Bu Windows konsol uygulaması kullanıcının belirleyeceği kaynak klasördeki tüm
+dosyaları ve alt klasörleri alarak kullanıcı tarafından seçilen hedef klasörün
+ana dizinine otomatik olarak taşır. Hedef klasörde aynı isimli dosyalar varsa
+bu dosyaların isimlerini otomatik olarak değiştirir.
 
 **Taşıma İşleminden Önce:**
 ```
@@ -51,8 +51,8 @@ kaynak klasör/                  hedef klasör/
                                 └── logo.ico                              
 ```
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Ekran Görüntüleri
 
@@ -60,27 +60,32 @@ kaynak klasör/                  hedef klasör/
 ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%202.png)
 ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20Görüntüsü%203.png)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Video
 
+<img align="left" src="./Readme Resources/Video/YouTube.png" alt="Youtube" width="30"/>
+
 [Uygulama Tanıtım Videosu](https://youtu.be/_VowZjxqJwg)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulamayı Çalıştırma
 
-Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
-yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
-istediğiniz dosya yoluna gidip terminalde
-`git clone https://github.com/mustafatoktas/O_DosyaTasima.git`
-komutunu çalıştırabilirsiniz.
+- Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
+  [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
+  yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
+  istediğiniz dosya yoluna gidip terminalde
+  `git clone https://github.com/mustafatoktas/O_DosyaTasima.git`
+  komutunu çalıştırabilirsiniz.
+
+- [Releases](https://github.com/mustafatoktas/O_DosyaTasima/releases) sayfasına gidip
+  uygulamanın en güncel sürümünü bilgisayarınıza indirip portable olarak kullanabilirsiniz.
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
-
 
 ## Lisans
 
@@ -98,8 +103,8 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## İletişim
 
